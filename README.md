@@ -1,1 +1,2 @@
 # HousingPricePrediction
+This project aimed to predict house prices using Linear Regression based on features like area, bedrooms, bathrooms, and amenities. The dataset was preprocessed with log transformation on price, one-hot encoding for categorical features, and feature scaling. The model achieved 71.6% accuracy (R² = 0.716), with an MAE of 855K and an RMSE of 1.15M. The log transformation improved performance, but outliers and additional features could further enhance accuracy.
